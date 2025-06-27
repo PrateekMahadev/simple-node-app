@@ -6,7 +6,7 @@ This project demonstrates a simple Node.js web app that is containerized using D
 
 ## GitHub Repository
 
-🔗 [https://github.com/PrateekMahadev/simple-node-app](https://github.com/PrateekMahadev/simple-node-app)
+[https://github.com/PrateekMahadev/simple-node-app](https://github.com/PrateekMahadev/simple-node-app)
 
 ---
 
@@ -34,3 +34,23 @@ simple-node-app/
 ```bash
 git clone https://github.com/PrateekMahadev/simple-node-app.git
 cd simple-node-app
+```
+
+### 2. Build the Docker Image
+```bash
+docker build -t simple-node-app .
+```
+
+### 3. Run the App
+```bash
+docker run -p 3000:3000 simple-node-app
+```
+
+### 4. Open in Browser
+
+Visit: `http://localhost:3000`
+
+You should see:
+Hello from Docker running on EC2!
+
+
