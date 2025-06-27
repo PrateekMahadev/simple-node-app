@@ -11,9 +11,8 @@ This project demonstrates a simple Node.js web app that is containerized using D
 
 ---
 
-## ✅ Project Structure
-``` simple-node-app/ ├── app.js ├── Dockerfile ├── .dockerignore ├── package.json ├── package-lock.json 
-``` 
+<pre> ## ✅ Project Structure ``` simple-node-app/ ├── app.js ├── Dockerfile ├── .dockerignore ├── package.json ├── package-lock.json ``` </pre>
+
 
 
 ## Run Locally Using Docker
