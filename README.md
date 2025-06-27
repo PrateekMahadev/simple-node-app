@@ -4,10 +4,6 @@ This project demonstrates a simple Node.js web app that is containerized using D
 
 ---
 
-## GitHub Repository
-
-[https://github.com/PrateekMahadev/simple-node-app](https://github.com/PrateekMahadev/simple-node-app)
-
 ---
 
 ## Tech Stack
@@ -20,12 +16,12 @@ This project demonstrates a simple Node.js web app that is containerized using D
 
 ## Project Structure
 
-simple-node-app/
-├── app.js
-├── Dockerfile
-├── .dockerignore
-├── package.json
-├── package-lock.json
+-simple-node-app/
+-├── app.js
+-├── Dockerfile
+-├── .dockerignore
+-├── package.json
+-├── package-lock.json
 
 
 ## Run Locally Using Docker
