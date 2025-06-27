@@ -1,16 +1,16 @@
-# 🚀 DevOps Assignment – Dockerize and Deploy a Web App on AWS EC2
+# DevOps Assignment – Dockerize and Deploy a Web App on AWS EC2
 
 This project demonstrates a simple Node.js web app that is containerized using Docker and deployed on an AWS EC2 instance using DevOps principles.
 
 ---
 
-## 📁 GitHub Repository
+## GitHub Repository
 
 🔗 [https://github.com/PrateekMahadev/simple-node-app](https://github.com/PrateekMahadev/simple-node-app)
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - Node.js (Express)
 - Docker
@@ -18,7 +18,7 @@ This project demonstrates a simple Node.js web app that is containerized using D
 
 ---
 
-## ✅ Project Structure
+## Project Structure
 
 simple-node-app/
 ├── app.js
