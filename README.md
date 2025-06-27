@@ -10,16 +10,6 @@ This project demonstrates a simple Node.js web app that is containerized using D
 - AWS EC2 (Ubuntu 22.04)
 
 ---
-## ✅ Project Structure
-
-simple-node-app/
-├── app.js
-├── Dockerfile
-├── .dockerignore
-├── package.json
-├── package-lock.json
-
-
 
 ## Run Locally Using Docker
 
