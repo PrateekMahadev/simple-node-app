@@ -28,7 +28,7 @@ simple-node-app/
 ├── package-lock.json
 
 
-## 🧪 Run Locally Using Docker
+## Run Locally Using Docker
 
 ### 1. Clone the Repository
 ```bash
@@ -51,6 +51,8 @@ docker run -p 3000:3000 simple-node-app
 Visit: `http://localhost:3000`
 
 You should see:
-Hello from Docker running on EC2!
+![Screenshot 2025-06-26 172820](https://github.com/user-attachments/assets/2c1ec333-ac13-46e0-a6ee-7b7b8a10382e)
+App running locally on Docker
+
 
 
