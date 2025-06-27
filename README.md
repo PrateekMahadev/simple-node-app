@@ -2,9 +2,6 @@
 
 This project demonstrates a simple Node.js web app that is containerized using Docker and deployed on an AWS EC2 instance using DevOps principles.
 
----
-
----
 
 ## Tech Stack
 
@@ -14,14 +11,9 @@ This project demonstrates a simple Node.js web app that is containerized using D
 
 ---
 
-## Project Structure
-
--simple-node-app/
--├── app.js
--├── Dockerfile
--├── .dockerignore
--├── package.json
--├── package-lock.json
+## ✅ Project Structure
+``` simple-node-app/ ├── app.js ├── Dockerfile ├── .dockerignore ├── package.json ├── package-lock.json 
+``` 
 
 
 ## Run Locally Using Docker
